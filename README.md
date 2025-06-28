@@ -44,7 +44,7 @@ graph LR
 ## 🚀 Como Executar
 
 1. **Acesse online**:  
-   [https://seu-usuario.github.io/calculadora-java-web/](https://GilsonJRV.github.io/calculadora-java-web/)
+   [https://GilsonJRV.github.io/calculadora-java-web/](https://GilsonJRV.github.io/calculadora-java-web/)
 
 2. **Execute localmente**:
    
