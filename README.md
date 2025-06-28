@@ -1,4 +1,5 @@
-# Calculadora Java para Web - README
+```markdown
+# Calculadora Java para Web
 
 ![Calculadora Preview](https://github.com/GilsonJRV/calculadora-java-web/blob/main/Foto%20calculadora.png?raw=true) <!-- Adicione uma imagem real depois -->
 
@@ -8,7 +9,7 @@ Este é um projeto educacional que demonstra minha jornada de aprendizado em pro
 
 Este projeto nasceu do meu desejo de aprender desenvolvimento web aplicando conceitos que já domino em Java. A lógica completa da calculadora foi **desenvolvida 100% por mim** em Java, e utilizei inteligência artificial como ferramenta educacional para me ajudar na conversão para HTML, CSS e JavaScript.
 
-mermaid
+```mermaid
 graph LR
     A[Meu Código Java] --> B{Conversão Educacional}
     B --> C[HTML]
@@ -17,7 +18,7 @@ graph LR
     C --> F[GitHub Pages]
     D --> F
     E --> F
-
+```
 
 ## 🧩 Funcionalidades
 
@@ -30,6 +31,10 @@ graph LR
 - Tratamento de erros (divisão por zero)
 - Interface responsiva
 - Seleção de operações intuitiva
+
+## 📂 Algoritmo Original em Java
+
+O coração deste projeto é o algoritmo que desenvolvi em Java. Você pode encontrar o código fonte completo no arquivo [`Calculadora.java`](https://github.com/GilsonJRV/calculadora-java-web/blob/main/Calculadora.java) deste repositório, onde mostro minha implementação original antes da conversão para web.
 
 ## 🖥️ Tecnologias Utilizadas
 
@@ -48,15 +53,15 @@ graph LR
 
 2. **Execute localmente**:
    
-bash
+```bash
    git clone https://github.com/GilsonJRV/calculadora-java-web.git
    cd calculadora-java-web
    # Basta abrir o arquivo index.html no navegador
-
+```
 
 ## 🧠 Processo de Aprendizado
 
-mermaid
+```mermaid
 journey
     title Minha Jornada de Aprendizado
     section Java
@@ -68,7 +73,7 @@ journey
       Adaptação para JS: 4: Eu com IA
     section Publicação
       GitHub Pages: 5: Eu
-
+```
 
 ## 👏 Créditos
 
@@ -93,3 +98,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 **Gilson Junior**  
 [Meu GitHub](https://github.com/GilsonJRV) | [Meu Portfólio](https://github.com/GilsonJRV?tab=repositories)  
 *"Aprendendo programação passo a passo, com honestidade e transparência"*
+```
