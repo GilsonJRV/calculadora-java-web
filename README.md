@@ -49,7 +49,7 @@ graph LR
 2. **Execute localmente**:
    
 bash
-   git clone https://github.com/seu-usuario/calculadora-java-web.git
+   git clone https://github.com/GilsonJRV/calculadora-java-web.git
    cd calculadora-java-web
    # Basta abrir o arquivo index.html no navegador
 
