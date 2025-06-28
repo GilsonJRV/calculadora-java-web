@@ -91,5 +91,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ---
 
 **Gilson Junior**  
-[Meu GitHub](https://github.com/seu-usuario) | [Meu Portfólio](#)  
+[Meu GitHub](https://github.com/GilsonJRV) | [Meu Portfólio](https://github.com/GilsonJRV?tab=repositories)  
 *"Aprendendo programação passo a passo, com honestidade e transparência"*
