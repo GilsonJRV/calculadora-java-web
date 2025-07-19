@@ -8,16 +8,6 @@ Este é um projeto educacional que demonstra minha jornada de aprendizado em pro
 
 Este projeto nasceu do meu desejo de aprender desenvolvimento web aplicando conceitos que já domino em Java. A lógica completa da calculadora foi **desenvolvida 100% por mim** em Java, e utilizei inteligência artificial como ferramenta educacional para me ajudar na conversão para HTML, CSS e JavaScript.
 
-mermaid
-graph LR
-    A[Meu Código Java] --> B{Conversão Educacional}
-    B --> C[HTML]
-    B --> D[CSS]
-    B --> E[JavaScript]
-    C --> F[GitHub Pages]
-    D --> F
-    E --> F
-
 
 ## 🧩 Funcionalidades
 
